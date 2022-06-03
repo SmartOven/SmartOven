@@ -7,8 +7,8 @@ Currently living in Saint-Petersburg, Russia 🌆
 Looking for my first job 💻
 
 ### My contacts
-1. [Telegram](https://t.me/monokumato) <img align="center" alt="[My Telegram]" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>  
-2. [GMail](yarik.panteleev@gmail.com) ✉
+[Telegram](https://t.me/monokumato) <img align="center" alt="[My Telegram]" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>  
+yarik.panteleev@gmail.com
 
 ### What do I learn right now
 Learning Java on [JavaRush](https://javarush.ru/users/2999084) 📕  
