@@ -1,4 +1,4 @@
-## My CV
+## My CV (Junior/Intern Java Developer)
 ### About me
 Hi there!👋  
 I'm Panteleev Yaroslav Kirillovich, I'm 20y.o.😁  
