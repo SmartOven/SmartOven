@@ -26,6 +26,11 @@ yarik.panteleev@gmail.com
 + Teamwork
 + Leading
 
+### Projects
++ Telegram-bot on async Python, using `aiogram` library. Registering
+users in VPN-service, showing setup guides for different OS (step
+by step).
+
 ### Achievements
 + Winner of the regional team Olympiad of schoolers in system programming (among students of grades 10-11), 2018
 + Winner of the regional team Olympiad of schoolers in system programming (among students of grades 10-11), 2019
