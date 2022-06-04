@@ -15,7 +15,7 @@ yarik.panteleev@gmail.com
 **English**: Upper intermediate (B2)
 
 ### Hard skills
-**Languages**: Java, Python, C/C++, Bash, SQL, HTML, XML  
+**Languages**: Java, Python, C/C++, Bash, SQL  
 **Databases**: MySQL, PostgreSQL  
 **Other**: Linux, OOP
 
