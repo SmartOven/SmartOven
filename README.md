@@ -29,7 +29,12 @@ yarik.panteleev@gmail.com
 ### Projects
 + Telegram-bot on async Python, using `aiogram` library. Registering
 users in VPN-service, showing setup guides for different OS (step
-by step).
+by step). 
+[Repo link](https://github.com/SmartOven/VPN-TG-BOT)
++ Simple banking system emulator (JDBC + SQLite). 
+[Repo link](https://github.com/SmartOven/JetBrainsAcademy/tree/main/SimpleBankingSystem)
++ RESTful service for purchasing cinema tickets (Spring Boot + Web).
+[Repo link](https://github.com/SmartOven/JetBrainsAcademy/tree/main/CinemaRoomRESTService)
 
 ### Achievements
 + Winner of the regional team Olympiad of schoolers in system programming (among students of grades 10-11), 2018
